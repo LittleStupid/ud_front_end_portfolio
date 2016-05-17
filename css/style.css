@@ -1,0 +1,17 @@
+.feature {
+  font-family: 'PT Sans', sans-serif;
+  color: grey;
+}
+
+.fake_url {
+  color: blue;
+}
+
+.sub_line {
+  display: block;
+   height: 2px;
+   border: 0;
+   border-top: 2px solid grey;
+   margin: 1em 0;
+   padding: 0;
+}
